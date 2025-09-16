@@ -22,11 +22,11 @@ This project analyzes the impact of promotional campaigns on sales performance f
 
 
 ## 📁 Project Structure
--** sql/** → Contains all SQL queries used for data extraction & analysis
-
-- presentation/ → Executive presentation PDF with insights & recommendations
-
-- README.md → Project overview and documentation
+| Folder        | Contents                                            |
+|---------------|-----------------------------------------------------|
+| **`sql/`**    | Contains all SQL scripts for analysis.              |
+| **`presentation/`** | Contains the final presentation file.           |
+| **`README.md`** | Primary project documentation (this file).        |
 
 
 ## 📈 Key Results & Insights
