@@ -20,11 +20,18 @@ This project analyzes the impact of promotional campaigns on sales performance f
 - **Data Visualization:** Power BI
 - **Reporting:** Microsoft PowerPoint
 
-## 📈 Key Results & Insights
-- **Generated ₹207M** in total Incremental Revenue (IR) with a **108.3% Promo Lift**.
-- **Top Stores:** Stores in Peshawar, Sialkot, and Rawalpindi clusters drove the highest IR.
-- **Most Effective Promotions:** `500 Cashback` (₹122.6M IR) and `BOGOF` (69.3M IR) were the top performers, significantly outperforming standard discount promotions.
-- **Product Category Response:** `Grocery & Staples` and `Personal Care` saw the highest sales lift (+25.8% and +24.5% respectively), while `Home Care` promotions were ineffective.
-- **Profitability:** `BOGOF` offers achieved the optimal balance of high sales volume and healthy profit margins.
 
 ## 📁 Project Structure
+- sql/ → Contains all SQL queries used for data extraction & analysis
+
+- presentation/ → Executive presentation PDF with insights & recommendations
+
+- README.md → Project overview and documentation
+
+
+## 📈 Key Results & Insights
+- **Generated ₹PKR207M** in total Incremental Revenue (IR) with a **108.3% Promo Lift**.
+- **Top Stores:** Stores in Peshawar, Sialkot, and Rawalpindi clusters drove the highest IR.
+- **Most Effective Promotions:** `500 Cashback` (PKR122.6M IR) and `BOGOF` (PKR69.3M IR) were the top performers, significantly outperforming standard discount promotions.
+- **Product Category Response:** `Grocery & Staples` and `Personal Care` saw the highest sales lift (+25.8% and +24.5% respectively), while `Home Care` promotions were ineffective.
+- **Profitability:** `BOGOF` offers achieved the optimal balance of high sales volume and healthy profit margins.
