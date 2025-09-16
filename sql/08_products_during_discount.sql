@@ -1,7 +1,7 @@
 WITH discount_sales AS (
     SELECT
         dp.category,
-
+    
         SUM(fe.base_price * fe.quantity_sold_after_promo) - SUM(fe.base_price * fe.quantity_sold_before_promo) AS sales_lift_revenue,
         SUM(fe.quantity_sold_after_promo) - SUM(fe.quantity_sold_before_promo) AS sales_lift_sold_units,
         (SUM(fe.quantity_sold_after_promo) - SUM(fe.quantity_sold_before_promo)) * 100 / SUM(fe.quantity_sold_before_promo) AS sales_lift_sold_percentage
