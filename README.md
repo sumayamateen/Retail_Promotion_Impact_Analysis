@@ -21,15 +21,13 @@ This project analyzes the impact of promotional campaigns on sales performance f
 - **Reporting:** Microsoft PowerPoint
 
 
-## 📁 Project Structure
-| Folder        | Contents                                            |
-|---------------|-----------------------------------------------------|
-| **`sql/`**    | Contains all SQL scripts for analysis.              |
-| **`presentation/`** | Contains the final presentation file.           |
-| **`README.md`** | Primary project documentation (this file).        |
+## Project Structure
+- **`sql/`** Contains all SQL scripts for analysis.              
+- **`presentation/`** Contains the final presentation file.           
+- **`README.md`**  Primary project documentation (this file).        
 
 
-## 📈 Key Results & Insights
+## Key Results & Insights
 - **Generated ₹PKR207M** in total Incremental Revenue (IR) with a **108.3% Promo Lift**.
 - **Top Stores:** Stores in Peshawar, Sialkot, and Rawalpindi clusters drove the highest IR.
 - **Most Effective Promotions:** `500 Cashback` (PKR122.6M IR) and `BOGOF` (PKR69.3M IR) were the top performers, significantly outperforming standard discount promotions.
